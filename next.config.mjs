@@ -18,6 +18,7 @@ const nextConfig = {
       'picsum.photos',
       'via.placeholder.com',
       'cloudfront.net',
+      'tribes-iota.vercel.app',
       'res.cloudinary.com'
     ],
     remotePatterns: [
